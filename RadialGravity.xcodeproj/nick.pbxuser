@@ -1,0 +1,178 @@
+// !$*UTF8*$!
+{
+	0195D2DF11C35279005325B0 /* RadialGravity */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RadialGravity;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0195D2F811C3527C005325B0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0195D2F911C3527C005325B0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0195D33511C35425005325B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC2F102F528A00A389B3 /* RadialGravityScene.h */;
+		name = "RadialGravityScene.h: 11";
+		rLen = 0;
+		rLoc = 214;
+		rType = 0;
+		vrLen = 678;
+		vrLoc = 0;
+	};
+	0195D33611C35425005325B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2C0EF2145700286867 /* RadialGravityAppDelegate.h */;
+		name = "RadialGravityAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 262;
+		rType = 0;
+		vrLen = 438;
+		vrLoc = 0;
+	};
+	0195D33711C35425005325B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2B0EF2145700286867 /* RadialGravityAppDelegate.mm */;
+		name = "RadialGravityAppDelegate.mm: 57";
+		rLen = 0;
+		rLoc = 1874;
+		rType = 0;
+		vrLen = 2306;
+		vrLoc = 0;
+	};
+	0195D33C11C3543E005325B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC30102F528A00A389B3 /* RadialGravityScene.mm */;
+		name = "RadialGravityScene.mm: 41";
+		rLen = 0;
+		rLoc = 954;
+		rType = 0;
+		vrLen = 1758;
+		vrLoc = 0;
+	};
+	0195D35511C35486005325B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC30102F528A00A389B3 /* RadialGravityScene.mm */;
+		name = "RadialGravityScene.mm: 85";
+		rLen = 0;
+		rLoc = 2047;
+		rType = 0;
+		vrLen = 2402;
+		vrLoc = 1827;
+	};
+	1D6058900D05DD3D006BFB54 /* RadialGravity */ = {
+		activeExec = 0;
+		executables = (
+			0195D2DF11C35279005325B0 /* RadialGravity */,
+		);
+	};
+	1F3B9A2B0EF2145700286867 /* RadialGravityAppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 1105}}";
+			sepNavSelRange = "{1874, 0}";
+			sepNavVisRange = "{0, 2306}";
+		};
+	};
+	1F3B9A2C0EF2145700286867 /* RadialGravityAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 938}}";
+			sepNavSelRange = "{262, 0}";
+			sepNavVisRange = "{0, 438}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0195D2DF11C35279005325B0 /* RadialGravity */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* RadialGravity */;
+		codeSenseManager = 0195D2F911C3527C005325B0 /* Code sense */;
+		executables = (
+			0195D2DF11C35279005325B0 /* RadialGravity */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					695,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 298013305;
+			PBXWorkspaceStateSaveDate = 298013305;
+		};
+		perUserProjectItems = {
+			0195D33511C35425005325B0 /* PBXTextBookmark */ = 0195D33511C35425005325B0 /* PBXTextBookmark */;
+			0195D33611C35425005325B0 /* PBXTextBookmark */ = 0195D33611C35425005325B0 /* PBXTextBookmark */;
+			0195D33711C35425005325B0 /* PBXTextBookmark */ = 0195D33711C35425005325B0 /* PBXTextBookmark */;
+			0195D33C11C3543E005325B0 /* PBXTextBookmark */ = 0195D33C11C3543E005325B0 /* PBXTextBookmark */;
+			0195D35511C35486005325B0 /* PBXTextBookmark */ = 0195D35511C35486005325B0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0195D2F811C3527C005325B0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	506EDC2F102F528A00A389B3 /* RadialGravityScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 938}}";
+			sepNavSelRange = "{214, 0}";
+			sepNavVisRange = "{0, 678}";
+		};
+	};
+	506EDC30102F528A00A389B3 /* RadialGravityScene.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {516, 3900}}";
+			sepNavSelRange = "{968, 0}";
+			sepNavVisRange = "{840, 296}";
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+}
